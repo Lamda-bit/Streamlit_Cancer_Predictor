@@ -1,0 +1,26 @@
+.st-emotion-cache-1v0mbdj  > img {
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+}
+
+
+.st-emotion-cache-j5r0tf{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgba(100, 62, 62, 0.726);
+}
+.diagnosis{
+    color: aliceblue;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign{
+    background-color: rgb(59, 165, 38);
+}
+
+.diagnosis.malicious{
+    background-color: rgb(201, 140, 61);
+}
+
