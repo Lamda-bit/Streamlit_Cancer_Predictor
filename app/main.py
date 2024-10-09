@@ -167,7 +167,8 @@ LinkedIn: <i>Link</i>  <br>
 Email: tetteycollins@gmail.com'''
 
 url = "www.linkedin.com/in/tettey-collins-kwabena-10351332a"
-contact = "LinkedIn Profile:  [Link](%s)" % url
+#contact = "LinkedIn Profile:  [Link](%s)" % url
+contact = "LinkedIn: [Link](https://www.linkedin.com/in/tettey-collins-kwabena-10351332a)"
 
 imagepath = r'assets/images/croped.PNG'
 
