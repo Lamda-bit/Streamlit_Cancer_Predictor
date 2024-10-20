@@ -1,1 +1,1 @@
-[App Link](https://cancerpredictorapp.streamlit.app/)
+[App Link](https://appcancerpredictor1.streamlit.app/)
