@@ -1,1 +1,1 @@
-[Link to visitle charge](https://diabetespredictorapp.streamlit.app/)
+[App Link](https://diabetespredictorapp.streamlit.app/)
